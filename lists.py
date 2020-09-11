@@ -65,8 +65,6 @@ print(fav_foods[2])
 
 
 
-#3) Edit the string variable below so that it runs as intended:
-string = "'I said,' I don't know why this isn't working, and it's getting me very FRUSTRATED!"
 
 
 
