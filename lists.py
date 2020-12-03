@@ -33,7 +33,7 @@ print(fav_foods[2])
 
 
 
-### 5) Try out the .append() method on one of your lists. (e.g. print(hobbies.append('basketball')). What happened?
+### 5) Try out the .append() method on one of your lists. (e.g. hobbies.append('basketball'), then print(hobbies). What happened?
 
 
 
